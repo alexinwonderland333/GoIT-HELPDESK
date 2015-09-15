@@ -1,0 +1,36 @@
+.header {
+	background: #ed6800 no-repeat url(../img/headerBg.jpg);
+	height: 111px;
+	padding-top: 32px;
+	color: #fff;
+	margin-bottom: 15px;
+}
+
+.header__title {
+	display: inline-block;
+	font: 50px/50px Helvetica, Arial, sans-serif;
+	margin: 0;
+	vertical-align: middle;
+}
+
+.header__slogan {
+	font: 18px/18px lighter Helvetica, Arial, sans-serif;
+	margin: 25px 42px 0 0;
+	float: right;
+}
+
+
+.main {
+	height: 1000px;
+	background: url(../img/orangeBg.jpg) 0 270px no-repeat;
+}
+
+.main__title {
+	font: 29px/30px bold Helvetica, Arial, sans-serif;
+	margin: 100px 0 0 0;
+	text-transform: uppercase;
+}
+
+.main__title__type_orange {
+	color: #fedec7;
+}
